@@ -1,16 +1,18 @@
-# 🎓 Boletim Escolar — Java
+ <div align="center">
 
-**Arrays, ArrayList e For-each em um projeto de console.**
+🎓 Boletim Escolar — Java
+
+Arrays, ArrayList e For-each em um projeto de console.
 
 A mini console application that registers students, calculates averages, and displays class statistics.
 
-![Java](https://img.shields.io/badge/Language-Java-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Documentation](https://img.shields.io/badge/Documentation-Bilingual-blue)
 
-[English](#-english) · [Português](#-português) · [Roadmap](#-roadmap) · [Project Structure](#-project-structure)
 
----
+
+
+English · Português · Roadmap · Project Structure
+
+</div>
 
 <details open>
 <summary><h2>🇺🇸 English</h2></summary>
