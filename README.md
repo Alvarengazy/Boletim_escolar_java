@@ -230,9 +230,6 @@ java BoletimEscolar
 - [x] Display individual reports / Exibir boletins individuais
 - [x] Calculate class statistics / Calcular estatísticas da turma
 - [x] Organize the application using methods and constants / Organizar a aplicação com métodos e constantes
-- [ ] Add an option to remove a student / Adicionar uma opção para remover um aluno
-- [ ] Organize student data into an `Aluno` class / Organizar os dados dos alunos em uma classe `Aluno`
-- [ ] Save student data to a file / Salvar os dados dos alunos em um arquivo
 
 ---
 
